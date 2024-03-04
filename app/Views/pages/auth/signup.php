@@ -7,7 +7,7 @@
 	<title>Sign Up</title>
 	<link rel="icon" href="<?= base_url('assets/img/TEST_oshs.jpg') ?>" type="image/x-icon">
 	<link rel="shortcut icon" href="<?= base_url('assets/img/TEST_oshs.jpg') ?>" type="image/x-icon">
-	<link rel="stylesheet" type="text/css" href="<?= base_url('public/assets/css/style.css') ?>">
+	<link rel="stylesheet" type="text/css" href="<?= base_url('assets/css/style.css') ?>">
 </head>
 
 <body>
